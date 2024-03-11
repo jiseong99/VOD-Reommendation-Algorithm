@@ -1,0 +1,367 @@
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<style>
+<!--
+body{background-color:#FFFFFF;}
+table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{mso-header-data:"";
+	mso-footer-data:"";
+	margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+	
+table{color:black;font-size:9.0pt;text-decoration:none;background-color:#FFFFFF;}
+
+.head{height:40px;font-weight:bold;text-align:center;margin:0;padding:0 10px 0 10px;background-color:#d1e5fe;}
+.td1{height:26px;text-align:center;margin:0;padding:0 10px 0 10px;background-color:#ffffff;}
+.td2{height:26px;text-align:center;margin:0;padding:0 10px 0 10px;background-color:#e3efff;}
+-->
+</style>
+</head>
+<body>
+<table border="1" cellpadding="0" cellspacing="0">
+<tr>	<td class='head' rowspan='2'>		노선번호	</td>	<td class='head' rowspan='2'>		지점번호	</td>	<td class='head' colspan='4'>		조사위치	</td>	<td class='head' rowspan='2'>		구간	</td>	<td class='head' rowspan='2'>		이정(km)	</td>	<td class='head' rowspan='2'>		연장(km)	</td>	<td class='head' rowspan='2'>		차로수	</td>	<td class='head' rowspan='2'>		시간	</td>	<td class='head' colspan='6'>2022	</td></tr><tr>	<td class='head'>		도명	</td>	<td class='head'>		시/군	</td>	<td class='head'>		읍/면	</td>	<td class='head'>		동/리	</td>	<td class='head'>		계	</td>	<td class='head'>		승용차	</td>	<td class='head'>		버스	</td>	<td class='head'>		소형화물	</td>	<td class='head'>		중형화물	</td>	<td class='head'>		대형화물	</td></tr>
+					<tr>
+						<td class='td2' rowspan="6">
+							110호선제2경인선
+						</td>
+						<td class='td2' colspan="7">
+							&#51064;&#52380;-&#49436;&#52285;
+						</td>
+						<td class='td2'>
+							9.8
+						</td>
+						<td class='td2'>
+							
+						</td>
+						<td class='td2'>
+							12시간
+						</td>
+						<td class='td2'>
+							104,914
+						</td>
+						<td class='td2'>
+							62,390
+						</td>
+						<td class='td2'>
+							440
+						</td>
+						<td class='td2'>
+							23,582
+						</td>
+						<td class='td2'>
+							14,704
+						</td>
+						<td class='td2'>
+							3,798
+						</td>
+					</tr>
+						
+					<tr>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'>24시간</td>
+						<td class='td1'>136,323</td>
+						<td class='td1'>83,561</td>
+						<td class='td1'>707</td>
+						<td class='td1'>28,020</td>
+						<td class='td1'>18,913</td>
+						<td class='td1'>5,122</td>
+					</tr>
+						
+					<tr>
+						<td class='td2'>11001</td>
+						<td class='td2'>&#51064;&#52380;</td>
+						<td class='td2'></td>
+						<td class='td2'>&#45224;</td>
+						<td class='td2'>&#50857;&#54788;</td>
+						<td class='td2'>&#51064;&#52380;&#49884;&#51216;-&#54617;&#51061;JCT</td>
+						<td class='td2'>0~1.8</td>
+						<td class='td2'>1.8</td>
+						<td class='td2'>6</td>
+						<td class='td2'></td>
+						<td class='td2'>55,305</td>
+						<td class='td2'>34,115</td>
+						<td class='td2'>314</td>
+						<td class='td2'>11,084</td>
+						<td class='td2'>7,670</td>
+						<td class='td2'>2,122</td>
+					</tr>
+						
+					<tr>
+						<td class='td1'>11001-1</td>
+						<td class='td1'>&#51064;&#52380;</td>
+						<td class='td1'></td>
+						<td class='td1'>&#45224;</td>
+						<td class='td1'>&#54617;&#51061;</td>
+						<td class='td1'>&#54617;&#51061;JCT-&#47928;&#54617;IC</td>
+						<td class='td1'>1.8~4.1</td>
+						<td class='td1'>2.3</td>
+						<td class='td1'>6</td>
+						<td class='td1'></td>
+						<td class='td1'>100,020</td>
+						<td class='td1'>62,159</td>
+						<td class='td1'>559</td>
+						<td class='td1'>19,703</td>
+						<td class='td1'>13,794</td>
+						<td class='td1'>3,805</td>
+					</tr>
+						
+					<tr>
+						<td class='td2'>11002</td>
+						<td class='td2'>&#51064;&#52380;</td>
+						<td class='td2'></td>
+						<td class='td2'>&#45224;</td>
+						<td class='td2'>&#47928;&#54617;</td>
+						<td class='td2'>&#47928;&#54617;IC-&#45224;&#46041;IC</td>
+						<td class='td2'>4.1~7.5</td>
+						<td class='td2'>3.4</td>
+						<td class='td2'>6</td>
+						<td class='td2'></td>
+						<td class='td2'>135,895</td>
+						<td class='td2'>84,870</td>
+						<td class='td2'>779</td>
+						<td class='td2'>26,458</td>
+						<td class='td2'>18,627</td>
+						<td class='td2'>5,161</td>
+					</tr>
+						
+					<tr>
+						<td class='td1'>11003</td>
+						<td class='td1'>&#51064;&#52380;</td>
+						<td class='td1'></td>
+						<td class='td1'>&#45224;&#46041;</td>
+						<td class='td1'>&#45224;&#52492;</td>
+						<td class='td1'>&#45224;&#46041;IC-&#49436;&#52285;JCT</td>
+						<td class='td1'>7.5~9.8</td>
+						<td class='td1'>2.3</td>
+						<td class='td1'>8</td>
+						<td class='td1'></td>
+						<td class='td1'>236,666</td>
+						<td class='td1'>141,725</td>
+						<td class='td1'>1,057</td>
+						<td class='td1'>51,898</td>
+						<td class='td1'>33,255</td>
+						<td class='td1'>8,731</td>
+					</tr>
+						
+					<tr>
+						<td class='td2' rowspan="4">
+							110호선제2경인선
+						</td>
+						<td class='td2' colspan="7">
+							&#49436;&#52285;-&#50504;&#54788;
+						</td>
+						<td class='td2'>
+							7.2
+						</td>
+						<td class='td2'>
+							
+						</td>
+						<td class='td2'>
+							12시간
+						</td>
+						<td class='td2'>
+							75,392
+						</td>
+						<td class='td2'>
+							55,029
+						</td>
+						<td class='td2'>
+							460
+						</td>
+						<td class='td2'>
+							13,306
+						</td>
+						<td class='td2'>
+							5,416
+						</td>
+						<td class='td2'>
+							1,181
+						</td>
+					</tr>
+						
+					<tr>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'>24시간</td>
+						<td class='td1'>105,963</td>
+						<td class='td1'>79,123</td>
+						<td class='td1'>768</td>
+						<td class='td1'>16,849</td>
+						<td class='td1'>7,460</td>
+						<td class='td1'>1,763</td>
+					</tr>
+						
+					<tr>
+						<td class='td2'>11004</td>
+						<td class='td2'>&#51064;&#52380;</td>
+						<td class='td2'></td>
+						<td class='td2'>&#45224;&#46041;</td>
+						<td class='td2'>&#49436;&#52285;</td>
+						<td class='td2'>&#49436;&#52285;JCT-&#49888;&#52380;IC</td>
+						<td class='td2'>9.8~13.6</td>
+						<td class='td2'>3.8</td>
+						<td class='td2'>6</td>
+						<td class='td2'></td>
+						<td class='td2'>86,723</td>
+						<td class='td2'>64,645</td>
+						<td class='td2'>624</td>
+						<td class='td2'>13,871</td>
+						<td class='td2'>6,138</td>
+						<td class='td2'>1,445</td>
+					</tr>
+						
+					<tr>
+						<td class='td1'>11005</td>
+						<td class='td1'>&#44221;&#44592;</td>
+						<td class='td1'>&#49884;&#55141;</td>
+						<td class='td1'></td>
+						<td class='td1'>&#48169;&#49328;</td>
+						<td class='td1'>&#49888;&#52380;IC-&#50504;&#54788;JCT</td>
+						<td class='td1'>13.6~17</td>
+						<td class='td1'>3.4</td>
+						<td class='td1'>6</td>
+						<td class='td1'></td>
+						<td class='td1'>127,467</td>
+						<td class='td1'>95,305</td>
+						<td class='td1'>928</td>
+						<td class='td1'>20,177</td>
+						<td class='td1'>8,938</td>
+						<td class='td1'>2,119</td>
+					</tr>
+						
+					<tr>
+						<td class='td2' rowspan="5">
+							110호선제2경인선
+						</td>
+						<td class='td2' colspan="7">
+							&#50504;&#54788;-&#49437;&#49688;
+						</td>
+						<td class='td2'>
+							8.5
+						</td>
+						<td class='td2'>
+							
+						</td>
+						<td class='td2'>
+							12시간
+						</td>
+						<td class='td2'>
+							102,213
+						</td>
+						<td class='td2'>
+							82,347
+						</td>
+						<td class='td2'>
+							744
+						</td>
+						<td class='td2'>
+							15,418
+						</td>
+						<td class='td2'>
+							3,353
+						</td>
+						<td class='td2'>
+							351
+						</td>
+					</tr>
+						
+					<tr>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'>24시간</td>
+						<td class='td1'>150,068</td>
+						<td class='td1'>122,896</td>
+						<td class='td1'>1,254</td>
+						<td class='td1'>20,515</td>
+						<td class='td1'>4,773</td>
+						<td class='td1'>630</td>
+					</tr>
+						
+					<tr>
+						<td class='td2'>11006</td>
+						<td class='td2'>&#44221;&#44592;</td>
+						<td class='td2'>&#49884;&#55141;</td>
+						<td class='td2'></td>
+						<td class='td2'>&#50504;&#54788;</td>
+						<td class='td2'>&#50504;&#54788;JCT-&#44305;&#47749;IC</td>
+						<td class='td2'>17~20.1</td>
+						<td class='td2'>3.1</td>
+						<td class='td2'>6</td>
+						<td class='td2'></td>
+						<td class='td2'>156,968</td>
+						<td class='td2'>128,329</td>
+						<td class='td2'>1,325</td>
+						<td class='td2'>21,602</td>
+						<td class='td2'>5,023</td>
+						<td class='td2'>689</td>
+					</tr>
+						
+					<tr>
+						<td class='td1'>11007</td>
+						<td class='td1'>&#44221;&#44592;</td>
+						<td class='td1'>&#44305;&#47749;</td>
+						<td class='td1'></td>
+						<td class='td1'>&#45432;&#50728;&#49324;</td>
+						<td class='td1'>&#44305;&#47749;IC-&#51068;&#51649;JCT</td>
+						<td class='td1'>20.1~24.4</td>
+						<td class='td1'>4.3</td>
+						<td class='td1'>6</td>
+						<td class='td1'></td>
+						<td class='td1'>146,542</td>
+						<td class='td1'>119,887</td>
+						<td class='td1'>1,249</td>
+						<td class='td1'>20,054</td>
+						<td class='td1'>4,690</td>
+						<td class='td1'>662</td>
+					</tr>
+						
+					<tr>
+						<td class='td2'>11008</td>
+						<td class='td2'>&#44221;&#44592;</td>
+						<td class='td2'>&#44305;&#47749;</td>
+						<td class='td2'></td>
+						<td class='td2'>&#51068;&#51649;</td>
+						<td class='td2'>&#51068;&#51649;JCT-&#49437;&#49688;IC</td>
+						<td class='td2'>24.4~25.5</td>
+						<td class='td2'>1.1</td>
+						<td class='td2'>6</td>
+						<td class='td2'></td>
+						<td class='td2'>144,412</td>
+						<td class='td2'>119,346</td>
+						<td class='td2'>1,075</td>
+						<td class='td2'>19,257</td>
+						<td class='td2'>4,397</td>
+						<td class='td2'>337</td>
+					</tr>
+						
+</table>
+</body>
+</html>

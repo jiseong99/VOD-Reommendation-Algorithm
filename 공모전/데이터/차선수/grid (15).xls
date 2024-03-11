@@ -1,0 +1,124 @@
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<style>
+<!--
+body{background-color:#FFFFFF;}
+table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{mso-header-data:"";
+	mso-footer-data:"";
+	margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+	
+table{color:black;font-size:9.0pt;text-decoration:none;background-color:#FFFFFF;}
+
+.head{height:40px;font-weight:bold;text-align:center;margin:0;padding:0 10px 0 10px;background-color:#d1e5fe;}
+.td1{height:26px;text-align:center;margin:0;padding:0 10px 0 10px;background-color:#ffffff;}
+.td2{height:26px;text-align:center;margin:0;padding:0 10px 0 10px;background-color:#e3efff;}
+-->
+</style>
+</head>
+<body>
+<table border="1" cellpadding="0" cellspacing="0">
+<tr>	<td class='head' rowspan='2'>		노선번호	</td>	<td class='head' rowspan='2'>		지점번호	</td>	<td class='head' colspan='4'>		조사위치	</td>	<td class='head' rowspan='2'>		구간	</td>	<td class='head' rowspan='2'>		이정(km)	</td>	<td class='head' rowspan='2'>		연장(km)	</td>	<td class='head' rowspan='2'>		차로수	</td>	<td class='head' rowspan='2'>		시간	</td>	<td class='head' colspan='6'>2022	</td></tr><tr>	<td class='head'>		도명	</td>	<td class='head'>		시/군	</td>	<td class='head'>		읍/면	</td>	<td class='head'>		동/리	</td>	<td class='head'>		계	</td>	<td class='head'>		승용차	</td>	<td class='head'>		버스	</td>	<td class='head'>		소형화물	</td>	<td class='head'>		중형화물	</td>	<td class='head'>		대형화물	</td></tr>
+					<tr>
+						<td class='td2' rowspan="4">
+							32호선옥산오창선
+						</td>
+						<td class='td2' colspan="7">
+							&#50725;&#49328;-&#50724;&#52285;
+						</td>
+						<td class='td2'>
+							12.1
+						</td>
+						<td class='td2'>
+							
+						</td>
+						<td class='td2'>
+							12시간
+						</td>
+						<td class='td2'>
+							8,595
+						</td>
+						<td class='td2'>
+							5,467
+						</td>
+						<td class='td2'>
+							170
+						</td>
+						<td class='td2'>
+							1,659
+						</td>
+						<td class='td2'>
+							1,081
+						</td>
+						<td class='td2'>
+							218
+						</td>
+					</tr>
+						
+					<tr>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'></td>
+						<td class='td1'>24시간</td>
+						<td class='td1'>10,691</td>
+						<td class='td1'>6,804</td>
+						<td class='td1'>213</td>
+						<td class='td1'>2,062</td>
+						<td class='td1'>1,346</td>
+						<td class='td1'>266</td>
+					</tr>
+						
+					<tr>
+						<td class='td2'>03200</td>
+						<td class='td2'>&#52649;&#48513;</td>
+						<td class='td2'>&#52397;&#51452;</td>
+						<td class='td2'>&#50725;&#49328;</td>
+						<td class='td2'>&#54840;&#51453;</td>
+						<td class='td2'>&#50725;&#49328;JC-&#49436;&#50724;&#52285;IC</td>
+						<td class='td2'>0~6.5</td>
+						<td class='td2'>6.5</td>
+						<td class='td2'>4</td>
+						<td class='td2'></td>
+						<td class='td2'>13,321</td>
+						<td class='td2'>8,802</td>
+						<td class='td2'>296</td>
+						<td class='td2'>2,471</td>
+						<td class='td2'>1,460</td>
+						<td class='td2'>292</td>
+					</tr>
+						
+					<tr>
+						<td class='td1'>03201</td>
+						<td class='td1'>&#52649;&#48513;</td>
+						<td class='td1'>&#52397;&#51452;</td>
+						<td class='td1'>&#50724;&#52285;</td>
+						<td class='td1'>&#49457;&#49328;</td>
+						<td class='td1'>&#49436;&#50724;&#52285;IC-&#50724;&#52285;JC</td>
+						<td class='td1'>6.5~12.1</td>
+						<td class='td1'>5.6</td>
+						<td class='td1'>4</td>
+						<td class='td1'></td>
+						<td class='td1'>7,636</td>
+						<td class='td1'>4,485</td>
+						<td class='td1'>116</td>
+						<td class='td1'>1,588</td>
+						<td class='td1'>1,213</td>
+						<td class='td1'>234</td>
+					</tr>
+						
+</table>
+</body>
+</html>
