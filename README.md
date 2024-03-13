@@ -48,6 +48,8 @@
 + series_count_asset_normalized : 해당 시리즈에 회차가 몇개나 있는지를 정규화한 변수, 정규화 방식 : origin / max
 + subsr_count_asset_normalized : 변수는 사용자가 컨텐츠를 몇 개나 시청하였는지를 정규화한 변수 , 정규화 방식 : origin / max
   
-![image](https://github.com/jiseong99/VOD-Reommendation-Algorithm/assets/137580822/a0244a7d-5ab6-4fbf-997e-8e00535d1902)
+![image](https://github.com/jiseong99/VOD-Reommendation-Algorithm/assets/137580822/d9faf958-4793-4de8-b0f7-b01d004f195e)
+
 
 <br/>
+
